@@ -1,4 +1,1 @@
-```
-# Document files
-*.docx
-```
+Nothing needs to be added to .gitignore since only a Python source file (`create_revision.py`) was added, which is a regular source code file that should not be ignored.
